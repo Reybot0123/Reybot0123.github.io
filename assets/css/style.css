@@ -53,7 +53,7 @@ body {
 
 #header h1 a,
 #header h1 a:hover {
-    color: #fff;
+    color: #00FFFF;
     line-height: 1;
     display: inline-block;
 }
@@ -70,7 +70,7 @@ a:hover {
 }
 
 #header h2 span {
-    color: #fff;
+    color: #00FFFF;
     border-bottom: 2px solid #00FFFF;
     padding-bottom: 6px;
 }
@@ -148,7 +148,7 @@ a:hover {
 .nav-menu a {
     display: block;
     position: relative;
-    color: #FFF;
+    color: #00FFFF;
     font-size: 16px;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
@@ -229,7 +229,7 @@ a:hover {
 .mobile-nav a {
     display: block;
     position: relative;
-    color: #fff;
+    color: #00FFFF;
     padding: 10px 20px;
     font-weight: 500;
     outline: none;
