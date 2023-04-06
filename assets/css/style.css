@@ -463,11 +463,11 @@ section .container {
     position: relative;
   }
   .pat {
-    background: url("https://i.postimg.cc/c1k5fTR8/pat.png") center center no-repeat;
+    background: url("https://i.imgur.com/ELOzFL7.jpg") center center no-repeat;
     background-size: 300px;
   }
   .pat:hover {
-    background: url("https://i.postimg.cc/c1k5fTR8/pat.png") left center no-repeat;
+    background: url("https://i.imgur.com/ELOzFL7.jpg") left center no-repeat;
     background-size: 650px;
   }
   .pat:hover h6 {
