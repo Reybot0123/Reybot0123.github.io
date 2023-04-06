@@ -53,7 +53,7 @@ body {
 
 #header h1 a,
 #header h1 a:hover {
-    color: #00FFFF;
+    color: #fff;
     line-height: 1;
     display: inline-block;
 }
@@ -70,7 +70,7 @@ a:hover {
 }
 
 #header h2 span {
-    color: #00FFFF;
+    color: #fff;
     border-bottom: 2px solid #00FFFF;
     padding-bottom: 6px;
 }
@@ -148,7 +148,7 @@ a:hover {
 .nav-menu a {
     display: block;
     position: relative;
-    color: #00FFFF;
+    color: #FFF;
     font-size: 16px;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
