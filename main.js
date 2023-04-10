@@ -20,7 +20,7 @@ var DEFAULT_PARTICLE = {
                 nb_sides: 5,
             },
             image: {
-                src: 'img/github.svg',
+                src: 'img/icons8-github.svg',
                 width: 100,
                 height: 100,
             },
